@@ -43,6 +43,11 @@
         "css": "'Bellota Text', display",
         "name": "Bellota Text",
         "url": "https://fonts.googleapis.com/css?family=Bellota+Text:300,300i,400,400i,700,700i"
+      },
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
@@ -56,13 +61,14 @@
     "gdpr": false,
     "uniqCompNum": 18,
     "versionPublish": "5.6.11",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "TEADA Technologies",
+        "title": "TAEDA Technologies",
         "meta_descr": "Soilless cultivation for rapid biomass feedstock production",
         "header_custom": "",
         "footer_custom": "",
